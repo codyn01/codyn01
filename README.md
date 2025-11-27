@@ -1,7 +1,7 @@
 ## Hi, I'm Tanushri Majumder 👋
 
-💻 Aspering Software Engineer sharing my journey and learnings in tech<br/>
-🎓 Studied [Computer Science](https://kiit.ac.in/) at Kalinga Institute of Industrial Technology<br/>
+💻 Aspiring Data Scientist sharing my journey and learnings in tech!<br/>
+🎓 Studying [Computer Science](https://kiit.ac.in/) at Kalinga Institute of Industrial Technology<br/>
 🎥 I create videos about Entertainment and productivity on [YouTube](https://www.youtube.com/@Tova-thoughts)<br/>
 🌱 Currently exploring data analytics and data visualization and AI/ML!<br/>
 
